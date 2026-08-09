@@ -30,8 +30,9 @@
 [**System Architecture**](docs/architecture.md) ·
 [**Final Pitch**](docs/pitch/aerviora-aspire-2026-final-pitch.pdf)
 
----
+</div>
 
+---
 ## Overview
 
 Weather, heat, UV and air-quality data already exist, but people are still left to interpret multiple numbers and decide what those conditions mean for their own plans.
