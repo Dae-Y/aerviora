@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Tests / coverage
+coverage/
+
+# Deployment
+.vercel/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
