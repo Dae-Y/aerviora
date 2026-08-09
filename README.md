@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/brand/aerviora/marks/concept-a-dark.svg" alt="Aerviora logo" width="88" />
+<img src="public/brand/aerviora/marks/concept-a-light.svg" alt="Aerviora logo" width="88" />
 
 # Aerviora
 
