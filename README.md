@@ -8,16 +8,28 @@
 
 **A mobile-first, privacy-focused environmental decision-support prototype built for IEEE Curtin ASPIRE 2026.**
 
-[Live Prototype](https://aerviora-private.vercel.app/) ·
-[Watch Demo](https://youtu.be/SRCkTcyiW4c) ·
-[System Architecture](docs/architecture.md) ·
-[Final Pitch](docs/pitch/aerviora-aspire-2026-final-pitch.pdf)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" alt="TypeScript 5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+  <img src="https://img.shields.io/badge/Vitest-4-6E9F18?logo=vitest&logoColor=white" alt="Vitest 4" />
+</p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Data-Open--Meteo-2A7FFF" alt="Open-Meteo" />
+  <img src="https://img.shields.io/badge/Air_Quality-Copernicus_CAMS-005CAF" alt="Copernicus CAMS" />
+  <img src="https://img.shields.io/badge/Decision_Engine-Deterministic-1F5A55" alt="Deterministic Decision Engine" />
+  <img src="https://img.shields.io/badge/Privacy-Session--only-0A2928" alt="Session-only Privacy" />
+  <img src="https://img.shields.io/badge/Tests-375_passing-brightgreen" alt="375 tests passing" />
+</p>
+
+[**Live Prototype**](https://aerviora-private.vercel.app/) ·
+[**Watch Demo**](https://youtu.be/SRCkTcyiW4c) ·
+[**System Architecture**](docs/architecture.md) ·
+[**Final Pitch**](docs/pitch/aerviora-aspire-2026-final-pitch.pdf)
 
 ---
-
-![Aerviora hero](public/images/hero/aerviora-hero-perth-dubai-v1.webp)
 
 ## Overview
 
