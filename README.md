@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" alt="TypeScript 5" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
   <img src="https://img.shields.io/badge/Vitest-4-6E9F18?logo=vitest&logoColor=white" alt="Vitest 4" />
+  <img src="https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 <p>
